@@ -1,0 +1,20 @@
+SIGNUP:
+  USERNAME: ""
+  PASSWORD: "testuser123"
+
+LOGIN:
+  USERNAME: "randomuser12345"
+  PASSWORD: "testuser123"
+
+CONTACT:
+  EMAIL: "testuser123@gmail.com"
+  NAME: "Test User"
+  MESSAGE:  "This is a test message to customer service."
+
+CHECKOUT:
+  NAME: "Test User"
+  COUNTRY: "Canada"
+  CITY:  "Toronto"
+  CREDIT_CARD: "4111111111111111"
+  MONTH: "02"
+  YEAR: "2025"

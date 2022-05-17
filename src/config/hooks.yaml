@@ -1,0 +1,5 @@
+CONFIG:
+  BROWSER:
+    NAME: chrome
+    URL: https://www.demoblaze.com/
+    IMPLICIT_WAIT: 30
